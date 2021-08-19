@@ -1,0 +1,4 @@
+mysql -u username -ppassword
+
+CREATE DATABASE databasename;
+
