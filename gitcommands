@@ -1,0 +1,1 @@
+scp -i ~/.ssh/4t2-audyt.pem '~/Downloads/mservice.sql' ubuntu@3.0.13.159:/var/www/
