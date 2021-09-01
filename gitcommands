@@ -1,1 +1,14 @@
 scp -i ~/.ssh/4t2-audyt.pem '~/Downloads/mservice.sql' ubuntu@3.0.13.159:/var/www/
+
+
+
+VIM EDITOR COMMANDS
+
+vim 
+
+q!
+wq!
+
+
+to switch between php versions 
+sudo update-alternatives --config php
