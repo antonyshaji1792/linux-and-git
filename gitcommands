@@ -12,3 +12,7 @@ wq!
 
 to switch between php versions 
 sudo update-alternatives --config php
+
+
+sudo scp -i 4t2-audyt.pem /var/www/26062021public_html.zip 
+ubuntu@3.0.13.159:/home/ubuntu/sathish-local/
